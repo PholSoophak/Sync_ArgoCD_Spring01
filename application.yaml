@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/yeaktonghan/devops-simple-spring-cd
+    repoURL: https://github.com/PholSoophak/Sync_ArgoCD_Spring01.git
     targetRevision: HEAD
     path: .
   destination: 
