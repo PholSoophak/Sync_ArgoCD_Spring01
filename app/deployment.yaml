@@ -16,6 +16,6 @@ template:
     spec:
       containers:
       - name: spring
-        image: skymapled/simple-spring
+        image: sophak12/spring_trip_image
         ports:
         - containerPort: 8080
